@@ -1,0 +1,7 @@
+{
+  "name": "Quiz Arena",
+  "description": "A fast-paced trivia quiz game featuring 15-second countdown timers, dynamic speed bonuses, streak multipliers, and competitive leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

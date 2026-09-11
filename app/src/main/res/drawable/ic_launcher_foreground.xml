@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer target / speed ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00D4AA"
+        android:strokeWidth="3.5"
+        android:pathData="M54,26 C38.54,26 26,38.54 26,54 C26,69.46 38.54,82 54,82 C69.46,82 82,69.46 82,54 C82,38.54 69.46,26 54,26 Z" />
+    
+    <!-- Trivia Question Mark & Lightning Flash Combo -->
+    <!-- Lightning bolt behind in accent mint -->
+    <path
+        android:fillColor="#00D4AA"
+        android:pathData="M58,30 L40,53 L51,53 L45,78 L68,49 L55,49 Z" />
+
+    <!-- Bold question mark emblem in crisp white -->
+    <!-- Top arc and hook of Question Mark -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,34 C48.5,34 44.5,37.5 44.5,42.5 L49.5,42.5 C49.5,39.8 51.5,38 54,38 C56.5,38 58.5,39.6 58.5,42 C58.5,44 57.2,45.2 54.8,47.2 C51.8,49.7 50.5,52.2 50.5,56 L55.5,56 C55.5,53.5 56.4,52 58.6,50.1 C61.5,47.6 63.5,45.2 63.5,41.8 C63.5,37.2 59.5,34 54,34 Z" />
+    <!-- Question mark dot -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M53,60 A3,3 0 1 1 53,66 A3,3 0 1 1 53,60 Z" />
+
+    <!-- Little spark stars -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M73,34 L74.2,38 L78,39.2 L74.2,40.4 L73,44.2 L71.8,40.4 L68,39.2 L71.8,38 Z" />
+    <path
+        android:fillColor="#00D4AA"
+        android:pathData="M33,65 L34,68 L37,69 L34,70 L33,73 L32,70 L29,69 L32,68 Z" />
+</vector>
+
