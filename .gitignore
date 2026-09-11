@@ -2,17 +2,39 @@
 .gradle
 .kotlin
 /local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
+local.properties
+
+# IntelliJ IDEA / Android Studio
+.idea/
+!.idea/codeStyles/
+!.idea/misc.xml
+!.idea/vcs.xml
+*.iws
+
+# Keystores & Environment Secrets
+.env
+*.key
+*.keystore
+!debug.keystore
+debug.keystore.base64
+
+# Build outputs
+build/
+*/build/
 /build
 /captures
 .externalNativeBuild
 .cxx
-local.properties
-.env
-debug.keystore
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+
