@@ -15,8 +15,12 @@ local.properties
 .env
 *.key
 *.keystore
+*.jks
 !debug.keystore
 debug.keystore.base64
+
+# Local Android SDK checkout (not part of the repo)
+android-sdk/
 
 # Build outputs
 build/
